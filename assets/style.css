@@ -1,0 +1,39 @@
+
+.raleway-<uniquifier> {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body{
+  background-color: bisque;
+  color: rgb(17, 7, 102);
+  font-family: "Raleway", sans-serif;
+}
+
+footer{
+  background-color: black;
+  color: white;
+}
+#container {
+    display:flex ;
+}
+.cartao {
+    margin: 1rem 1rem;
+    background-color: rgba(217, 255, 0, 0.712);
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% -6rem);
+    text-align: center;
+    height: 10%;
+}
+  .cartao__conteudo h3 {
+    background-color: tomato;
+    text-align: left;
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
+}
