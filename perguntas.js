@@ -38,3 +38,13 @@ criaCartao(
     'oque você quer fazer quando crescer?',
     'ser cozinheiro e professor de quimica'
 )
+criaCartao(
+    'biologia 1',
+    'Oque fala a primeira lei de Mendel??',
+    'A primeira lei de Mendel, também conhecida como lei da segregação dos fatores, afirma que cada característica de um indivíduo é determinada por um par de fatores (genes), que se separam (segregam) durante a formação dos gametas (células sexuais)'
+)
+criaCartao(
+    'biologia',
+    'Oque fala a segunda lei de Mendel??',
+    'A segunda lei de Mendel, ou Lei da Segregação Independente, afirma que os alelos de diferentes genes se separam e são distribuídos de forma independente uns dos outros durante a formação dos gametas (células reprodutivas), permitindo novas combinações de características na prole.'
+)
